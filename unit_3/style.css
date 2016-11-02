@@ -4,8 +4,13 @@ body {background-color: white
 h1 {
 	color: black ;
 	text-align: center;
-	font-size: 22px; 
+	font-size: 40px; 
 }
 
-p {font-style: italic;
+p {
+	font-size:22px;
+	font-style: italic;
+	text-align: center;
+
 }
+
