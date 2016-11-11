@@ -1,26 +1,33 @@
-@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Anton|Lobster|Quicksand');
 
 body {
 	background-color: white
 }
 
 h1 {
-	color: black ;
+	color: black;
 	text-align: center;
 	font-size: 60px;
-	font-family: Helvetica; 
+	font-family: 'Quicksand', sans-serif; 
+}
+
+h2 {
+	color: gray ;
+	text-align: center;
+	font-family: 'Lobster', cursive;
 }
 
 p {
-	font-size:22px;
+	font-size:38px;
 	text-align: center;
 	font-style: italic;
 	font-family: 'Anton', sans-serif;
 }
 ul
 	{
-	font-size:16px;
+	font-size:30px;
 	font-family: Helvetica;
+	text-align: center;
 }
 
 img {
