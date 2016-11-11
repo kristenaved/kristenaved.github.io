@@ -7,13 +7,14 @@ body {
 h1 {
 	color: black;
 	text-align: center;
-	font-size: 60px;
+	font-size: 75px;
 	font-family: 'Quicksand', sans-serif;
 }
 
 h2  {
 	color: gray ;
 	text-align: center;
+	font-size: 40px;
 	font-family: 'Lobster', cursive;
 }
 
@@ -21,13 +22,14 @@ p {
 	font-size: 38px;
 	text-align: center;
 	font-style: italic;
-	font-family: 'Anton', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 }
 ul
 	{
 	font-size: 30px;
 	font-family: Helvetica;
 	text-align: center;
+	font-familiy: 'Quicksand', sans-serif;
 }
 
 img {
