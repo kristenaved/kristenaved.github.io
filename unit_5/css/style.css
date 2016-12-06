@@ -14,12 +14,12 @@ h1 {
 h2  {
 	color: gray ;
 	text-align: center;
-	font-size: 40px;
-	font-family: 'Quicksand', cursive;
+	font-size: 28px;
+	font-family: 'Quicksand', sans-serif;
 }
 
 p {
-	font-size: 38px;
+	font-size: 28px;
 	text-align: center;
 	font-style: italic;
 	font-family: 'Quicksand', sans-serif;
