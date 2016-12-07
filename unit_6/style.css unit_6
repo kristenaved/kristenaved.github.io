@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lobster|Quicksand');
+
+body {
+	background-color: white
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 75px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h2  {
+	color: gray ;
+	text-align: center;
+	font-size: 28px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+p {
+	font-size: 28px;
+	text-align: center;
+	font-style: italic;
+	font-family: 'Quicksand', sans-serif;
+}
+ul
+	{
+	font-size: 30px;
+	font-family: Helvetica;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+
+img {
+	display:block;
+	margin: 0 auto;
+}
