@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lobster|Quicksand');
+
+body {
+	background-color: gray
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 2em;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h2  {
+	color: gray ;
+	text-align: center;
+	font-size: 28px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+p {
+	font-size: 28px;
+	text-align: center;
+	font-style: italic;
+	font-family: 'Quicksand', sans-serif;
+}
+ul
+	{
+	font-size: 30px;
+	font-family: Helvetica;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#two_column {
+	background-color: #FFb7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+nav {	
+}
+
+nav a {
+	text-decoration: none;
+	color: #000000;
+	margin: 1.8em;
+	display: inline-block;
+}
+
+div {
+	font-size: 1.2em;
+	width: 30%;
+	display: inline-block;
+}
+
+#photo {
+	display: block;
+	width: 100%;
+	margin: 0;
+}	
+}
+
+#About {
+	float: left;
+}
+
+#Gallery {
+	float: right;
+}
+
+#Menu {
+	float: center;
+}
+
+footer {
+	text-align: center;
+	padding: 1em 0;
+	clear: both;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
